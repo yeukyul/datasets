@@ -1,4 +1,4 @@
-term    year    instructor  dept    course.id    course.name    section    type    responses    enrollment    resp.rate    hrs.per.week    interst.in.student.learning    exp.goals    clarity,provide.feedback    importance    exp.subject    respect    overall.teaching    overall.course
+term    year    instructor  dept    course.id    course.name    section    type    responses    enrollment    resp.rate    hrs.per.week    interst.in.student.learning    exp.goals    clarity    provide.feedback    importance    exp.subject    respect    overall.teaching    overall.course
 Spring	2016	PHILLIP COMPEAU	CB	2201	PRGRMMING SCIENTISTS	1	Lect	4	5	80%	13.25	4.75	4.5	4.25	4.25	4.75	4.5	4.75	4.5	4.5
 Fall	2016	PHILLIP COMPEAU	CB	2201	PRGRMMING SCIENTISTS	1	Lect	4	4	100%	12.5	4.5	4.5	4.25	3.5	4	4.25	4.75	4.5	3.75
 Fall	2014	CARLETON KINGSFORD	CB	2201	PRGRMMING SCIENTISTS	A	Lect	12	17	71%	14.25	4.17	3.67	4.25	3.25	4.25	3.5	4.25	3.67	3.25
